@@ -1,4 +1,4 @@
-// Question 2
+// QUESTION-CHAPTER-1-(b)
 
 //The distance between two cities (in km.) is input through the
 //keyboard. Write a program to convert and print this distance

@@ -1,4 +1,4 @@
-//Question 3
+// QUESTION-CHAPTER-1-(c)
 
 // If the marks obtained by a student in five different subjects
 // are input through the keyboard, find out the aggregate marks
