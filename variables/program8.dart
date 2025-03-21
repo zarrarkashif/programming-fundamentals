@@ -17,5 +17,3 @@ String reversedNumberStr = numberStr.split("").reversed.join("");
   print('Reversed number: $reversedNumberStr');
   
 }
-// String numberStr = number.toString();
-//   String reversedNumberStr = numberStr.split('').reversed.join('');
